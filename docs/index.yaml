@@ -4,5 +4,7 @@ owner:
 repo_url: https://github.com/albiDmtr/test-base-2
 new_twin_url: https://github.com/albiDmtr/test-base-2/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
+- url: https://albiDmtr.github.io/test-base-2/76ce3148-4b0d-40bc-8fc9-21cdc0c7149b
+  name: My component
 - url: https://albiDmtr.github.io/test-base-2/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
