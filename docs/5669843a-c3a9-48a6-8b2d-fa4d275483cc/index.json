@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/5669843a-c3a9-48a6-8b2d-fa4d275483cc",
+    "hosting-iri": "https://albiDmtr.github.io/test-base-2/5669843a-c3a9-48a6-8b2d-fa4d275483cc",
+    "name": "Test elem 2",
+    "description": "Write description here.",
+    "baseurl": "https://albiDmtr.github.io/test-base-2",
+    "edit": "https://github.com/albiDmtr/test-base-2/edit/main/docs/5669843a-c3a9-48a6-8b2d-fa4d275483cc/index.yaml",
+    "edit-json": "https://github.com/albiDmtr/test-base-2/edit/main/docs/5669843a-c3a9-48a6-8b2d-fa4d275483cc/index.json"
+}
