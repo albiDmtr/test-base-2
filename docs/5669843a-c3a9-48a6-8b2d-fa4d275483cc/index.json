@@ -8,61 +8,61 @@
     "edit-json": "https://github.com/albiDmtr/test-base-2/edit/main/docs/5669843a-c3a9-48a6-8b2d-fa4d275483cc/index.json",
     "type": "torsionalModel",
     "elements": [
-	{
-		"name": "Disk 1",
-		"type": "Disk",
-		"damping": 0,
-		"inertia": 5720
-	},
-	{
-		"name": "Shaft 1",
-		"type": "ShaftDiscrete",
-		"damping": 0,
-		"stiffness": 4490000000
-	},
-	{
-		"name": "Gear 1",
-		"type": "GearElement",
-		"inertia": 5720,
-		"diameter": 230
-	},
-	{
-		"name": "Gear 2",
-		"type": "GearElement",
-		"inertia": 5720,
-		"diameter": 230,
-		"parent": "Gear 1"
-	},
-	{
-		"name": "Shaft 2",
-		"type": "ShaftDiscrete",
-		"damping": 0,
-		"stiffness": 4490000000
-	},
-	{
-		"name": "Disk 2",
-		"type": "Disk",
-		"damping": 0,
-		"inertia": 5720
-	},
-	{
-		"name": "Gear 3",
-		"type": "GearElement",
-		"inertia": 5720,
-		"diameter": 230,
-		"parent": "Gear 1"
-	},
-	{
-		"name": "Shaft 3",
-		"type": "ShaftDiscrete",
-		"damping": 0,
-		"stiffness": 4490000000
-	},
-	{
-		"name": "Disk 3",
-		"type": "Disk",
-		"damping": 0,
-		"inertia": 5720
-	}
-	]
+        {
+            "name": "Disk 1",
+            "type": "Disk",
+            "damping": 0,
+            "inertia": 5720
+        },
+        {
+            "name": "Shaft 1",
+            "type": "ShaftDiscrete",
+            "damping": 0,
+            "stiffness": 4490000000
+        },
+        {
+            "name": "Gear 1",
+            "type": "GearElement",
+            "inertia": 5720,
+            "diameter": 230
+        },
+        {
+            "name": "Gear 2",
+            "type": "GearElement",
+            "inertia": 5720,
+            "diameter": 230,
+            "parent": "Gear 1"
+        },
+        {
+            "name": "Shaft 2",
+            "type": "ShaftDiscrete",
+            "damping": 0,
+            "stiffness": 4490000000
+        },
+        {
+            "name": "Disk 2",
+            "type": "Disk",
+            "damping": 0,
+            "inertia": 5720
+        },
+        {
+            "name": "Gear 3",
+            "type": "GearElement",
+            "inertia": 5720,
+            "diameter": 230,
+            "parent": "Gear 1"
+        },
+        {
+            "name": "Shaft 3",
+            "type": "ShaftDiscrete",
+            "damping": 0,
+            "stiffness": 4490000000
+        },
+        {
+            "name": "Disk 3",
+            "type": "Disk",
+            "damping": 0,
+            "inertia": 5720
+        }
+    ]
 }
